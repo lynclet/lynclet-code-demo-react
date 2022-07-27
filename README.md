@@ -6,7 +6,7 @@ LYNCLET.COM
 
 Use this example create-react-app project as a reference. 
 
-The script from our website contains the following attributes:
+The code from our app contains the following attributes:
 
 1. async - load the client in parallel of your website and avoid unnecessary dalays.
 2. src - this is the javascript file that loads the file
